@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1c0b7d95-0821-4327-99e5-47f637e06c42": {
+      "ProjectGuid": "1c0b7d95-0821-4327-99e5-47f637e06c42",
+      "DisplayName": "LinkedLists",
+      "ColorIndex": 0
+    },
+    "ef080aa3-57cd-4cb5-88ae-298697f7aaf2": {
+      "ProjectGuid": "ef080aa3-57cd-4cb5-88ae-298697f7aaf2",
+      "DisplayName": "Dynamic Array",
+      "ColorIndex": 1
+    },
+    "3f8f9da8-5f19-4322-8518-73f1cfcfc2b8": {
+      "ProjectGuid": "3f8f9da8-5f19-4322-8518-73f1cfcfc2b8",
+      "DisplayName": "BinaryTree",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "c2208d8b-8115-4911-a013-752ba8caa7ec": {
+      "ProjectGuid": "c2208d8b-8115-4911-a013-752ba8caa7ec",
+      "DisplayName": "DooblayLinkedListTesting",
+      "ColorIndex": 3
+    },
+    "ec06548c-fd75-42d4-97a7-611890a41764": {
+      "ProjectGuid": "ec06548c-fd75-42d4-97a7-611890a41764",
+      "DisplayName": "UnitTesting",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
