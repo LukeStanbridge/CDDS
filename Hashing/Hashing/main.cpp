@@ -18,6 +18,7 @@ int main()
 
 	while (!WindowShouldClose())
 	{
+		//----------------------------------------------------------------------------------
 		// Update
 		//----------------------------------------------------------------------------------
 		HashTable hashy;
@@ -26,18 +27,18 @@ int main()
 		hashy.insert("bad", hashbrownie);
 
 		//----------------------------------------------------------------------------------
-
 		// Draw
 		//----------------------------------------------------------------------------------
 		BeginDrawing();
 			ClearBackground(RAYWHITE);
 
 			DrawText("Hashy Textures", 670, 30, 20, RED);
+			DrawText("Inserting images of good and bad hashy's into a hash table", 800, 250, 20, BLUE);
 
 			hashy.draw();
 			hashy.print();
 
-			hashy.get("bad");
+			hashy.get("bad");	
 
 			DrawFPS(10, 10);
 		EndDrawing();
