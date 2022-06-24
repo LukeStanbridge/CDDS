@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "64eb4918-17dd-47ae-89d5-460886c735d0": {
+      "ProjectGuid": "64eb4918-17dd-47ae-89d5-460886c735d0",
+      "DisplayName": "Hashing",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
